@@ -10,6 +10,7 @@
   <img src="https://github.com/charlesfu4/ALSSN/blob/master/Session1/graph.svg">
 </p>
 - Iterably delete the highest betweenness and higest degree and count the number of clusters:
+
 ![Alt text](/Session1/max_betweenness.png?raw=true)
 
 ![Alt text](/Session1/max_degree.png?raw=true)
